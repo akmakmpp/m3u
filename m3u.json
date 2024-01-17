@@ -4,7 +4,10 @@
 {"type":"English Movies Kids Filtered",
 "m3uLink":"https://raw.githubusercontent.com/binhex/iptv/main/eng-movies-kids-filtered.m3u"},
 {"type":"English",
-"m3uLink":"https://raw.githubusercontent.com/binhex/iptv/main/eng.m3u"}
+"m3uLink":"https://raw.githubusercontent.com/binhex/iptv/main/eng.m3u"},
+  
+{"type":"Adult",
+"m3uLink":"https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"}
 
 
 
