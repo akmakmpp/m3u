@@ -10,7 +10,10 @@
 "m3uLink":"https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
   
 {"type":"Ya",
-"m3uLink":"https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u"}
+"m3uLink":"https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u"},
+  
+{"type":"Test",
+"m3uLink":"https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_spain.m3u8"}
 
 
 
